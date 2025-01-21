@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **galangypradana@gmail.com** for business you can contact me in **galang@rskias.co.id** 
 - 😄 Pronouns: Its Working Account
 - ⚡ Fun fact: **I'm a man :p** and watch description
+- 👯 React Native, Nextjs, Golang, Nestjs, Fullstack Javascript.
 </p>
 
 <a href="https://github.com/mzcoder-hub">
